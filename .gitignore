@@ -12,10 +12,9 @@
 /build
 
 # misc
-
-./firebase
+/firebase
 .firebaserc
-.firebase.json
+firebase.json
 .env.production
 node_modules
 .env
